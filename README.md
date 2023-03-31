@@ -1,5 +1,5 @@
 # git-test
 Git repo to demo git flow
 
-**Collaborators
+## Collaborators
 Priya Vaidya
